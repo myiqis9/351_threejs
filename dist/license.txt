@@ -1,0 +1,8 @@
+Model Information:
+* title:	Soren [Fully Rigged]
+* source:	https://sketchfab.com/3d-models/soren-fully-rigged-1416419255694fb48b13114393bffe66
+* author:	Miilq (https://sketchfab.com/Miilq)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
